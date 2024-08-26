@@ -1,0 +1,24 @@
+
+2024-08-26 16:05:54 [INFO]: Email sent successfully
+2024-08-26 16:11:08 [INFO]: GET - /all-emails from localhost
+2024-08-26 16:26:53 [INFO]: Connected to MongoDb
+2024-08-26 16:29:40 [INFO]: GET - /all-emails from 192.168.0.108
+2024-08-26 18:00:51 [INFO]: Connected to MongoDb
+2024-08-26 18:02:18 [INFO]: Connected to MongoDb
+2024-08-26 18:04:14 [INFO]: Connected to MongoDb
+2024-08-26 18:05:32 [INFO]: Connected to MongoDb
+2024-08-26 18:07:22 [INFO]: Connected to MongoDb
+2024-08-26 18:08:06 [INFO]: GET - /favicon.ico from ::ffff:192.168.0.108, body: {}
+2024-08-26 18:13:11 [INFO]: Connected to MongoDb
+2024-08-26 18:13:18 [INFO]: GET - /all-emails from ::ffff:192.168.0.108, body: {}
+2024-08-26 18:13:18 [INFO]: GET - /all-emails from 192.168.0.108, body: {}
+ params-[object Object]
+2024-08-26 18:13:40 [INFO]: Connected to MongoDb
+2024-08-26 18:13:42 [INFO]: GET - /all-emails from ::ffff:192.168.0.108, body: {}
+2024-08-26 18:13:42 [INFO]: GET - /all-emails from 192.168.0.108, body: {}
+ params-[object Object]
+2024-08-26 18:23:09 [INFO]: Connected to MongoDb
+2024-08-26 18:24:14 [INFO]: Connected to MongoDb
+2024-08-26 18:24:17 [INFO]: GET - /favicon.ico from localhost, body: {}, params: {}
+2024-08-26 18:24:21 [INFO]: GET - /all-emails from localhost, body: {}, params: {}
+2024-08-26 18:24:38 [INFO]: GET - /all-emails from 192.168.0.108, body: {}, params: {}
